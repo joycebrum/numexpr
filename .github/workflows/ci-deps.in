@@ -1,0 +1,4 @@
+setuptools
+oldest-supported-numpy
+cibuildwheel
+build
